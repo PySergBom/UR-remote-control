@@ -10,7 +10,7 @@ Remote control for collaborative robots (Universal robots) via socket by pygame.
 
 ## Tech Stack 
 ### Backend:
-<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>	<img alt="Pygame" src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=pygame&logoColor=white"/>	
+<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>	<img alt="Pygame" src="https://img.shields.io/badge/pygame%20-%23092E20.svg?&style=for-the-badge&logo=pygame&logoColor=white"/>	
 
 ## UR remote control video demonstration
 [![Watch the video](https://img.youtube.com/vi/FpQLkR7e1RQ/maxresdefault.jpg)](https://youtu.be/FpQLkR7e1RQ)
